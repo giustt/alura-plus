@@ -66,6 +66,8 @@ body {
 
 .conteudo__principal__assinatura {
     background-color: transparent;
+    color: var(--branco-principal);
+    text-decoration: none;
     border: 1px solid var(--branco-principal);
     border-radius: 8px;
     padding: 1em;
